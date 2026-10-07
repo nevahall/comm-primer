@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+    <meta name="description" content="{{ page.excerpt | strip_html | default: site.description | strip_newlines | truncate: 160 }}" />
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}" />
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Skip to main content</a>
+    <header class="site-header" role="banner" aria-label="Site header">
+      <div class="container">
+        <h1 class="site-title"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+        <p class="site-tagline">{{ site.description }}</p>
+        <nav class="site-nav" aria-label="Primary navigation">
+          <ul>
+            <li><a href="{{ '/' | relative_url }}">Home</a></li>
+            <li><a href="{{ '/pages/rhetorical-lens/' | relative_url }}">Rhetorical Lens</a></li>
+            <li><a href="{{ '/pages/semiotic-lens/' | relative_url }}">Semiotic Lens</a></li>
+            <li><a href="{{ '/pages/cybernetic-lens/' | relative_url }}">Cybernetic Lens</a></li>
+            <li><a href="{{ '/pages/socio-psychological-lens/' | relative_url }}">Socio-Psychological Lens</a></li>
+            <li><a href="{{ '/pages/socio-cultural-lens/' | relative_url }}">Socio-Cultural Lens</a></li>
+            <li><a href="{{ '/pages/critical-lens/' | relative_url }}">Critical Lens</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <main id="main-content" class="site-main" role="main" aria-label="Main content">
+      <div class="container">{{ content }}</div>
+    </main>
+
+    <footer class="site-footer" role="contentinfo" aria-label="Site footer">
+      <div class="container">
+        <p>&copy; {{ 'now' | date: '%Y' }} {{ site.title }}.</p>
+      </div>
+    </footer>
+  </body>
+</html>

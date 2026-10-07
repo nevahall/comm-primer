@@ -1,0 +1,125 @@
+---
+---
+
+:root {
+  --navy: #0b1f3a;
+  --light-blue: #d8e9ff;
+  --mid-blue: #4f7fbf;
+  --white: #ffffff;
+  --text: #10233d;
+  --focus: #ffd166;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.6;
+  color: var(--text);
+  background: var(--light-blue);
+}
+
+a {
+  color: #103f7a;
+}
+
+a:hover,
+a:focus {
+  color: #0a2c57;
+}
+
+.skip-link {
+  position: absolute;
+  left: -9999px;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+}
+
+.skip-link:focus {
+  position: static;
+  width: auto;
+  height: auto;
+  padding: 0.5rem 1rem;
+  background: var(--focus);
+  color: #000;
+  display: inline-block;
+}
+
+.container {
+  width: min(100%, 980px);
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.site-header {
+  background: var(--navy);
+  color: var(--white);
+  padding: 1.2rem 0;
+}
+
+.site-title {
+  margin: 0;
+  font-size: 1.8rem;
+}
+
+.site-title a {
+  color: var(--white);
+  text-decoration: none;
+}
+
+.site-tagline {
+  margin: 0.5rem 0 1rem;
+  color: #c9dcf8;
+}
+
+.site-nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+}
+
+.site-nav a {
+  display: inline-block;
+  color: var(--white);
+  text-decoration: none;
+  padding: 0.45rem 0.7rem;
+  border-radius: 0.3rem;
+  background: rgba(255, 255, 255, 0.12);
+}
+
+.site-nav a:hover,
+.site-nav a:focus {
+  background: rgba(255, 255, 255, 0.24);
+}
+
+.site-main {
+  padding: 2rem 0 3rem;
+}
+
+.panel {
+  background: var(--white);
+  border-left: 0.4rem solid var(--mid-blue);
+  border-radius: 0.4rem;
+  padding: 1rem 1.1rem;
+  margin: 1rem 0;
+}
+
+h1,
+h2,
+h3 {
+  color: #0a2548;
+}
+
+.site-footer {
+  background: var(--navy);
+  color: var(--white);
+  padding: 1rem 0;
+}
