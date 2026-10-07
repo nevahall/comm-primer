@@ -1,0 +1,14 @@
+title: "Communication Primer"
+description: "A practical guide to communication theory for everyday 21st-century problems, including AI-mediated communication."
+url: "https://nevahall.github.io"
+baseurl: "/comm-primer"
+markdown: kramdown
+permalink: pretty
+
+theme: minima
+plugins:
+  - jekyll-feed
+
+collections:
+  lenses:
+    output: true
