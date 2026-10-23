@@ -3,22 +3,27 @@ layout: default
 title: Home
 ---
 
-# Welcome to Communication Primer
+### Welcome to My Communication Primer
 
-This website follows one communication phenomenon through six connected questions. Its purpose is to make everyday communication challenges easier to see and solve by using practical theory tools.
+Communication is something we use every day, whether we are talking to friends, sending emails, or communicating at work. As technology continues to grow, artificial intelligence is becoming a bigger part of how we communicate with others.
+This website focuses on how AI is being used to write workplace emails and how it can affect the way messages are sent, received, and understood. While AI can make writing emails faster and easier, it can also create misunderstandings or change the tone of a message in ways the sender may not realize.
+Throughout this website, I will explain different communication theories and how they relate to AI-written emails. My goal is to make these theories easy to understand, even for someone who has never studied communication before.
 
-As communication becomes increasingly mediated by digital platforms and artificial intelligence, people often experience misunderstandings, mistrust, overload, and disconnection. Communication theory helps us map these problems, ask better questions, and respond more effectively.
+## How to Use This Website
 
-<section class="panel" aria-labelledby="how-to-use-this-site">
-  <h2 id="how-to-use-this-site">How to use this site</h2>
-  <p>Start here, then follow the six subpages from transmission to meaning, power, intention, practice, and process. Each page is structured for plain-language learning and practical application.</p>
-</section>
+This website is divided into six sections that explore different parts of communication. Each section builds on the previous one and explains how communication theories can help us better understand the use of AI in workplace emails.
 
-<section class="panel" aria-labelledby="what-youll-find">
-  <h2 id="what-youll-find">What you'll find</h2>
-  <ul>
-    <li>A transmission model and a humanist critique of its limits</li>
-    <li>Interpretive tools for culture, power, intention, and algorithms</li>
-    <li>Practical guidance for personal and professional communication</li>
-  </ul>
-</section>
+# What You'll Learn
+
+* How messages are sent and received, and why misunderstandings can happen
+
+* Why communication involves more than just sending information
+
+* How personal experiences and workplace culture affect the way people interpret emails
+
+* How power and technology can influence communication
+
+* How AI can change the original meaning or intention behind a message
+
+* How to use AI responsibly while keeping workplace communication clear, professional, and authentic
+  
