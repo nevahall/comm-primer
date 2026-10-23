@@ -6,14 +6,10 @@ permalink: /pages/transmission-view/
 
 # The Transmission View and Its Limits
 
-The Shannon-Weaver model is useful because it makes a communication event visible as a sequence: an information source selects a message, a transmitter encodes it, a channel carries a signal, and a receiver reconstructs it. Its vocabulary of signal, noise, redundancy, and feedback helps explain why a message can fail even when nobody intended a misunderstanding.
+One way to understand how emails work is through the Shannon-Weaver model of communication. This model explains communication as a process where information moves from one person to another. It includes a sender, a message, a channel, and a receiver. The sender creates the message, the channel is how the message travels, and the receiver is the person who gets it. The model also includes something called "noise," which is anything that interferes with communication. In an email conversation, the employee is the sender, the email is the message, the email platform is the channel, and the coworker or supervisor is the receiver. Noise could be unclear wording, distractions, or technical problems.
 
-<section class="panel" aria-labelledby="transmission-illuminates">
-  <h2 id="transmission-illuminates">What the model illuminates</h2>
-  <p>It directs attention to channels, timing, translation, interference, and confirmation. In an AI-mediated exchange, ask: Where was the prompt transformed? What context was dropped? Which interface or dataset introduced noise?</p>
-</section>
+AI makes this process more complicated because it helps create the message before it is sent. Normally, the sender decides what they want to say and how they want to say it. When someone uses AI, they might only give it a basic idea and allow the technology to choose the actual words. For example, an employee might ask AI to write an email telling their boss they cannot attend a meeting. AI could turn that simple request into a formal email with an apology and a detailed explanation. The employee is still sending the message, but AI has influenced how that message sounds.
 
-<section class="panel" aria-labelledby="humanist-critique">
-  <h2 id="humanist-critique">What the model misses</h2>
-  <p>A humanist critique asks us to notice that people do not merely receive signals. They interpret, remember, feel, negotiate relationships, and live within unequal institutions. The mathematical model tends to treat meaning as transferable and participants as interchangeable. It therefore underdescribes history, embodiment, culture, ethics, and power.</p>
-</section>
+The Shannon-Weaver model is helpful for understanding how information travels, but it does not fully explain how people understand messages. Just because someone receives an email does not mean they understand it the way the sender intended. For example, an employee might use AI to write an apology to a coworker. The email could include everything the employee wants to say, but the coworker might think the formal language sounds fake or insincere. The email was delivered correctly, but the communication may not have been successful.
+
+This shows that good communication involves more than sending the right information. People also consider emotions, relationships, and personal experiences when reading messages. An email can be grammatically correct and still create a misunderstanding. When using AI, employees need to think about how their message might make the other person feel, not just whether the information is accurate.
