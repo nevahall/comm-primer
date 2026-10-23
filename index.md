@@ -11,7 +11,7 @@ Throughout this website, I will explain different communication theories and how
 
 ## How to Use This Website
 
-This website is divided into six sections that explore different parts of communication. Each section builds on the previous one and explains how communication theories can help us better understand the use of AI in workplace emails.
+This website is divided into six sections that explore different parts of communication. 
 
 ### What You'll Learn
 
