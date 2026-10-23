@@ -4,16 +4,14 @@ title: Interpretation and Intention
 permalink: /pages/interpretation-and-intention/
 ---
 
-# Interpretation and Intention
+#  The Fourth Intention: Intentio Algorithmi
 
-Umberto Eco's account of interpretation distinguishes among the intentio auctoris (what an author meant), the intentio operis (what the work's structure supports), and the intentio lectoris (what a reader makes of it). The model resists two simple answers: intention is not whatever the author claims after the fact, and interpretation is not anything a reader can make it mean.
+When people communicate, there are several things that influence what a message means. First, there is what the sender wants to say. Second, there is the actual message and the words being used. Third, there is how the person receiving the message understands it. Umberto Eco explored these three ideas when explaining how people create and interpret meaning. They are known as the author's intention, the meaning of the message itself, and the reader's interpretation.
 
-<section class="panel" aria-labelledby="eco-model">
-  <h2 id="eco-model">Adding intentio algorithmi</h2>
-  <p>AI-mediated communication exposes a missing layer: intentio algorithmi, the patterned direction produced by a model, its training data, its objective, and the platform around it. This is not human intention in disguise. It names how an algorithm can shape likely meanings without possessing a single conscious purpose.</p>
-</section>
+With AI becoming more involved in communication, there is another influence to consider. This is called intentio algorithmi, or the fourth intention. In simple terms, it describes how AI can influence the meaning of a message by choosing the words and tone used to communicate it. Even though AI does not have personal feelings or intentions like humans do, the way it is designed affects the messages it creates.
 
-<section class="panel" aria-labelledby="intention-practice">
-  <h2 id="intention-practice">A disciplined reading</h2>
-  <p>Separate what a person hoped to do, what the artifact makes possible, what readers infer, and what the system is optimized to produce. That separation makes room for accountability without pretending that one actor controls every interpretation.</p>
-</section>
+For example, imagine an employee asks AI to write an email explaining that they cannot finish a project today but will have it completed tomorrow. The employee might only want to give a quick update. However, AI could create a long email that includes several apologies, formal language, and promises the employee did not originally intend to make. Although the main information is still correct, the email might make the situation seem more serious than it actually is.
+
+This is what makes the fourth intention important. The employee begins with an idea, AI decides how to express that idea, and the receiver interprets the final message. AI becomes another influence on communication because it can change the tone or meaning of the original idea. This does not mean AI is intentionally trying to change the message. Instead, it means the technology's word choices can affect how the message is understood.
+
+Understanding intentio algorithmi helps explain why people should not automatically assume an AI-written email perfectly represents their thoughts. This is especially important when writing about sensitive topics like apologies, disagreements, or giving feedback. AI can help organize a message and make it sound professional, but the person sending it should still make sure it communicates exactly what they mean.
