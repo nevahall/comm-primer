@@ -6,14 +6,10 @@ permalink: /pages/what-the-reader-should-do/
 
 # What the Reader Should Do
 
-Theory earns its keep when it changes what a reader can do. Start with the transmission view to locate the channel and the noise. Then ask what signs and cultural codes are doing the work, whose preferred meaning is being protected, and how author, artifact, reader, and algorithmic system each shape the interpretation.
+Understanding these communication ideas can help people make better decisions about using AI in everyday life. One of the most important things to remember is that AI should be used as a writing assistant rather than a replacement for human communication. AI can help organize thoughts, correct grammar, and make emails easier to understand. However, people should still think about what they want to say before asking AI to write something. The Shannon-Weaver model reminds us that information needs to be communicated clearly, while semiotics and encoding/decoding show that people can interpret the same words in different ways.
 
-<section class="panel" aria-labelledby="personal-practice">
-  <h2 id="personal-practice">For personal communication</h2>
-  <p>Pause before correcting a message. Name the interpretation you are making, ask what context you may be missing, and check whether the other person intended the effect you experienced. When AI is involved, verify important claims and keep responsibility for the final message.</p>
-</section>
+In the workplace, employees should always read through AI-written emails before sending them. They should check for incorrect information, unnecessary details, and language that does not sound like something they would normally say. They should also think about who will receive the email. For example, an email to a supervisor might need to sound more formal than an email to a close coworker. Employees should make changes to AI-generated messages so they fit their workplace and relationships. They should also be careful about sharing private company or customer information with AI tools.
 
-<section class="panel" aria-labelledby="professional-practice">
-  <h2 id="professional-practice">For professional communication</h2>
-  <p>Document decisions, audiences, sources, and system constraints. Test messages with people who occupy different social positions. Treat accessibility, consent, representation, and recourse as communication requirements, not optional polish. The goal is not perfect agreement; it is more accountable interpretation.</p>
-</section>
+In personal life, people should be especially careful when using AI to write emotional or important messages. AI might help someone figure out how to start a difficult conversation, but it does not fully understand the relationship between the people involved. For example, someone might ask AI to write an apology to a friend. The message could sound thoughtful and sincere, but it might not reflect how the person actually feels. Since people can interpret messages differently, it is important to make sure the final message expresses genuine thoughts and emotions.
+
+Overall, AI can be a useful tool for improving communication, but people need to stay involved in the writing process. Good communication is not just about sending a well-written message. It is also about making sure the other person understands what you are trying to say. The ideas discussed throughout this primer show that communication involves sharing information, creating meaning, and understanding different interpretations. AI adds another influence to this process because it helps decide how messages are written. As AI becomes more common in personal and professional life, people should use it to support their own communication rather than allowing it to completely replace their voice.
