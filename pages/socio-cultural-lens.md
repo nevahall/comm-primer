@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How I Built This Site
+title: The Phenomenon
 permalink: /pages/how-i-built-this-site/
 ---
 
