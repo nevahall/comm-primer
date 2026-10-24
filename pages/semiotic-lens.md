@@ -6,7 +6,7 @@ permalink: /pages/meaning-and-culture/
 
 # Meaning and Culture
 
-Semiotics is the study of how words, symbols, and other signs create meaning. In simple terms, it explains why people can look at the same message and understand it differently. When communicating through email, even small things like punctuation, word choice, and tone can change how a message sounds. The meaning of a message is not always determined by the person who writes it. The person reading it also plays a role in deciding what it means, which connects to ideas about interpretation discussed by Umberto Eco.
+Semiotics is the study of how words, symbols, and other signs create meaning. It explains why people can look at the same message and understand it differently. When communicating through email, small things like punctuation, word choice, and tone can change how a message sounds. The meaning of a message is not always determined by the person who writes it. The person reading it also plays a role in deciding what it means, which connects to ideas about interpretation discussed by Umberto Eco.
 
 For example, imagine receiving two messages: "That's fine." and "That's fine!" Both messages communicate the same basic information, but they can sound very different. The first might seem annoyed, uninterested, or serious, while the second might seem friendly and excited. However, the meaning also depends on the relationship between the people communicating. When AI writes an email, it makes choices about punctuation and wording that can affect how the message is understood. Someone might want their email to sound friendly, but AI could create a message that sounds too formal or even rude.
 
